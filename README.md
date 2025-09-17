@@ -2,7 +2,9 @@
 ## Bienvenido
 Este repositorio contiene el trabajo que fue realizado a modo de prácticas profesionalizantes en el año 2024 para la municipalidad de General Alvarado.
 
-Como información adicional, especifico la utilización de XAMPP para Apache y MySQL para pruebas de entorno local.
+El proyecto no utiliza ninguna herramienta de pago o métodos transacción bancaria, sino que fue pensado como intermediario entre cliente/comerciante para guardar registro de los "cupones" reclamados por el usuario.
+
+Como información adicional, especifico la utilización de Apache y MySQL en XAMPP para pruebas de entorno local.
 
 ## vendor
 A la hora de registrar un comercio, con el equipo de desarrollo utilizamos herramientas ya diseñadas por otros desarrolladores
