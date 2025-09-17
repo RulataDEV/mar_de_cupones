@@ -1,6 +1,7 @@
 # Mar de Cupones
 ## Bienvenido
 Este repositorio contiene el trabajo que fue realizado a modo de prácticas profesionalizantes en el año 2024 para la municipalidad de General Alvarado.
+El proyecto fue realizado en su gran mayoria en php, por cuestiones de conveniencia.
 
 El proyecto no utiliza ninguna herramienta de pago o métodos transacción bancaria, sino que fue pensado como intermediario entre cliente/comerciante para guardar registro de los "cupones" reclamados por el usuario.
 
