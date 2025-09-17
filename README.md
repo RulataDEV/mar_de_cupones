@@ -6,11 +6,13 @@ El proyecto fue realizado en su gran mayoria en php, por cuestiones de convenien
 El proyecto no utiliza ninguna herramienta de pago o métodos transacción bancaria, sino que fue pensado como intermediario entre cliente/comerciante para guardar registro de los "cupones" reclamados por el usuario.
 
 #### Información adicional
-Especifico la utilización de Apache y MySQL en XAMPP para pruebas de entorno local.
-La base de datos utilizada, en formato .sql, se encuentra en la carpeta auxiliar database creada con el unico motivo de añadir el archivo a este repositorio.
+Se realiza la utilización de Apache y MySQL en XAMPP para pruebas de entorno local.
+La base de datos utilizada, en formato .sql, se encuentra en la carpeta auxiliar 'database' creada con el unico motivo de añadir el archivo a este repositorio.
+
+El sistema no está pensado para ser utilizado con fines de lucro y fue realizado a modo de actividad curricular-didáctica.
 
 ## vendor
-A la hora de registrar un comercio, con el equipo de desarrollo utilizamos herramientas ya diseñadas por otros desarrolladores
+A la hora de registrar un comercio, con el equipo de desarrollo utilizamos herramientas ya diseñadas por otros desarrolladores para poder confirmar el procedimiento via correo electrónico.
 
 Las cuales son:
 
